@@ -1,3 +1,8 @@
+## Instructions
+Default build assumes BLTouch and uses 10 point grid with UBL
+To change simple settings, open `Marlin/Chiron.h`
+Most if not all usable settings can be changed there.
+
 <p align="center"><img src="buildroot/share/pixmaps/logo/marlin-outrun-nf-500.png" height="250" alt="MarlinFirmware's logo" /></p>
 
 <h1 align="center">Marlin 3D Printer Firmware</h1>
